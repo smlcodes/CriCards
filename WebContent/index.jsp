@@ -1,10 +1,18 @@
 <h1>CriCards</h1>
+
+
+<a>  Alchemists - Sports, eSports & Gaming Club and News HTML Template</a>
+
+
+
+
+
 <h2>Pages</h2>
 <p><a href="login.jsp"> Login</a></p>
 <p><a title="Dashboard" href="dashboard.jsp">dashboard.jsp</a></p>
 <p><a title="Game" href="game.html">GAME.HTML</a></p>
 <p><a title="Documentation" href="http://docs.dan-fisher.com/docs/necromancers-html/welcome/">Documentation</a></p>
-
+<p><a href="test.html"> Test.html</a></p>
 
 
 
