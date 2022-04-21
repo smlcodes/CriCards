@@ -1,6 +1,5 @@
-# CriCards
+# CardDesign Ref.
 
-## CardDesign Ref.
 ![image](https://user-images.githubusercontent.com/20472904/164384286-cf7699e0-d22f-4e94-b51c-fc6a29c8f82d.png)
 https://codepen.io/drehimself/pen/QNXpyp  
 
@@ -18,4 +17,13 @@ https://codepen.io/takaneichinose/pen/xvpqgo
 https://codepen.io/fatihtakey/pen/eyyWVr  
 ![image](https://user-images.githubusercontent.com/20472904/164386742-5efea91a-d5e4-4a9e-b80f-07d0763fc358.png)
 
+
+# ScoreBoard Ref.
+https://codepen.io/cole-gardner/pen/ExowEKm   
+
+https://codepen.io/dcitulsky/pen/OJOKGdV  
+
+https://codepen.io/negimaru/pen/wGojKm  
+
+https://codepen.io/SimTechLP/pen/wveydJN  
 
