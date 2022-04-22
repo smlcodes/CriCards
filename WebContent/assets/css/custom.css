@@ -4,3 +4,43 @@ Description:  You can add your custom CSS here and it will overwrite template st
 */
 
 /*# sourceMappingURL=maps/custom.css.map */
+
+.radio {
+	background: #a3ff12;
+	padding: 12px;
+	border-radius: 3px;
+	box-shadow: inset 0 0 0 3px rgba(255, 255, 255, 0.3),
+		0 0 0 3px rgba(92, 250, 29, 0.3);
+	position: relative;
+}
+
+.radio input {
+	width: auto;
+	height: 100%;
+	-webkit-appearance: none;
+	   -moz-appearance: none;
+	        appearance: none;
+	outline: none;
+	cursor: pointer;
+	border-radius: 2px;
+	padding: 4px 8px;
+	color: #fff;
+	transition: all 100ms linear;
+    font-weight:900;
+}
+
+.radio input:checked {
+	background-image: linear-gradient(180deg, #ff1c5c, #ff1c5c);
+	color: #fff; 
+}
+
+.radio input:before {
+	content: attr(label);
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+
+
+/*# sourceMappingURL=maps/custom.css.map */
+
